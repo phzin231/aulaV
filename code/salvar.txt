@@ -1,0 +1,2 @@
+https://www.freecodecamp.org/news/a-quick-guide-to-styling-buttons-using-css-f64d4f96337f/
+https://www.freecodecamp.org/portuguese/news/como-criar-um-botao-em-html-que-age-como-um-link/
